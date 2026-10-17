@@ -1,0 +1,26 @@
+{
+  "name": "doc-sop-translate",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "test": "node --test --experimental-strip-types lib/*.test.ts",
+    "sample": "node --env-file=.env.local --experimental-strip-types scripts/run-sample.ts"
+  },
+  "dependencies": {
+    "@google/genai": "^2.30.0",
+    "@xmldom/xmldom": "^0.9.12",
+    "jszip": "^3.10.2",
+    "next": "^15.5.28",
+    "react": "^19.3.1",
+    "react-dom": "^19.3.1"
+  },
+  "devDependencies": {
+    "@types/node": "^26.6.5",
+    "@types/react": "^19.3.0",
+    "typescript": "^5.9.3"
+  }
+}

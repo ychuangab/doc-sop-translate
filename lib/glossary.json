@@ -1,0 +1,170 @@
+[
+ {
+  "zh": "螺旋式空壓機",
+  "en": "screw air compressor",
+  "vi": "Máy nén khí trục vít",
+  "id": "Kompresor udara sekrup",
+  "th": "เครื่องอัดลมแบบสกรู"
+ },
+ {
+  "zh": "空壓機",
+  "en": "air compressor",
+  "vi": "Máy nén khí",
+  "id": "Kompresor udara",
+  "th": "เครื่องอัดลม"
+ },
+ {
+  "zh": "冷凍式乾燥機",
+  "en": "refrigerated air dryer",
+  "vi": "Máy sấy khí tác nhân lạnh",
+  "id": "Pengering udara refrigerasi",
+  "th": "เครื่องทำลมแห้งแบบใช้น้ำยาทำความเย็น"
+ },
+ {
+  "zh": "點檢表",
+  "en": "inspection checklist",
+  "vi": "Bảng kiểm tra",
+  "id": "Lembar pemeriksaan",
+  "th": "รายการตรวจสอบ"
+ },
+ {
+  "zh": "點檢",
+  "en": "routine inspection",
+  "vi": "Kiểm tra định kỳ",
+  "id": "Pemeriksaan rutin",
+  "th": "การตรวจสภาพประจำ"
+ },
+ {
+  "zh": "上鎖掛牌",
+  "en": "lockout/tagout",
+  "vi": "Khóa và gắn thẻ",
+  "id": "Penguncian dan pelabelan",
+  "th": "การล็อกและแขวนป้ายเตือน"
+ },
+ {
+  "zh": "露點",
+  "en": "dew point",
+  "vi": "Điểm sương",
+  "id": "Titik embun",
+  "th": "จุดน้ำค้าง"
+ },
+ {
+  "zh": "自動排水器",
+  "en": "automatic drain valve",
+  "vi": "Van xả tự động",
+  "id": "Katup pembuangan otomatis",
+  "th": "วาล์วระบายน้ำอัตโนมัติ"
+ },
+ {
+  "zh": "潤滑油",
+  "en": "lubricating oil",
+  "vi": "Dầu bôi trơn",
+  "id": "Oli pelumas",
+  "th": "น้ำมันหล่อลื่น"
+ },
+ {
+  "zh": "油過濾器",
+  "en": "oil filter",
+  "vi": "Bộ lọc dầu",
+  "id": "Filter oli",
+  "th": "ไส้กรองน้ำมัน"
+ },
+ {
+  "zh": "空氣濾網",
+  "en": "air filter",
+  "vi": "Bộ lọc khí",
+  "id": "Filter udara",
+  "th": "ไส้กรองอากาศ"
+ },
+ {
+  "zh": "壓差",
+  "en": "differential pressure",
+  "vi": "Độ chênh áp",
+  "id": "Tekanan diferensial",
+  "th": "ความดันแตกต่าง"
+ },
+ {
+  "zh": "排氣壓力",
+  "en": "discharge pressure",
+  "vi": "Áp suất xả",
+  "id": "Tekanan buang",
+  "th": "ความดันด้านจ่าย"
+ },
+ {
+  "zh": "排氣溫度",
+  "en": "discharge temperature",
+  "vi": "Nhiệt độ xả",
+  "id": "Suhu buang",
+  "th": "อุณหภูมิด้านจ่าย"
+ },
+ {
+  "zh": "設備保養人員",
+  "en": "maintenance technician",
+  "vi": "Kỹ thuật viên bảo trì",
+  "id": "Teknisi pemeliharaan",
+  "th": "ช่างซ่อมบำรุง"
+ },
+ {
+  "zh": "設備主管",
+  "en": "equipment supervisor",
+  "vi": "Giám sát thiết bị",
+  "id": "Supervisor peralatan",
+  "th": "หัวหน้างานเครื่องจักร"
+ },
+ {
+  "zh": "判定基準",
+  "en": "acceptance criteria",
+  "vi": "Tiêu chuẩn đánh giá",
+  "id": "Kriteria keberterimaan",
+  "th": "เกณฑ์การยอมรับ"
+ },
+ {
+  "zh": "冷媒",
+  "en": "refrigerant",
+  "vi": "Môi chất lạnh",
+  "id": "Refrigeran",
+  "th": "สารทำความเย็น"
+ },
+ {
+  "zh": "冷卻器",
+  "en": "cooler",
+  "vi": "Bộ làm mát",
+  "id": "Pendingin",
+  "th": "เครื่องระบายความร้อน"
+ },
+ {
+  "zh": "控制面板",
+  "en": "control panel",
+  "vi": "Bảng điều khiển",
+  "id": "Panel kontrol",
+  "th": "แผงควบคุม"
+ },
+ {
+  "zh": "運轉時數",
+  "en": "running hours",
+  "vi": "Giờ vận hành",
+  "id": "Jam operasi",
+  "th": "ชั่วโมงการทำงาน"
+ },
+ {
+  "zh": "非計畫停機",
+  "en": "unplanned downtime",
+  "vi": "Dừng máy ngoài kế hoạch",
+  "id": "Waktu henti tidak terencana",
+  "th": "การหยุดเครื่องนอกแผน"
+ },
+ {
+  "zh": "安全眼鏡",
+  "en": "safety glasses",
+  "vi": "Kính bảo hộ",
+  "id": "Kacamata pengaman",
+  "th": "แว่นตานิรภัย"
+ },
+ {
+  "zh": "防護手套",
+  "en": "protective gloves",
+  "vi": "Găng tay bảo hộ",
+  "id": "Sarung tangan pelindung",
+  "th": "ถุงมือนิรภัย"
+ }
+]
