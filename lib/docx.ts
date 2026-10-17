@@ -69,5 +69,5 @@ export async function writeBilingual(buf: ArrayBuffer | Uint8Array, translations
     p.parentNode!.insertBefore(np, p.nextSibling);
   });
   zip.file("word/document.xml", new XMLSerializer().serializeToString(doc));
-  return zip.generateAsync({ type: "uint8array" });
+  return zip.generateAsync({ type: "uint8array", compression: "DEFLATE" });
 }
