@@ -39,6 +39,10 @@ DOCX ─ ① 抽段配術語 ─ ② 批次翻譯 ─ ③ QA ─┬─ 黃燈（
 例如「設備保養人員」第一輪譯成 Equipment Maintenance Personnel，收尾後改為術語表規定的 Maintenance Technician，句子其他部分不變。
 一般模式（第一輪就帶術語）英文、越南文、泰文都是 48/48、全數綠燈。
 
+## 說明簡報
+
+8 頁 Marp 簡報：`/slides/index.html`（PDF：`/slides/deck.pdf`）。原始檔 `slides-src/deck.md`，操作畫面為正式環境截圖（`public/slides/img/`）；重建：`bash slides-src/build.sh`。
+
 ## 本機執行
 
 ```bash
